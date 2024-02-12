@@ -3,4 +3,5 @@ class A {
     private int b;
     private int d;
     private int e;
+    private int f;
 }
