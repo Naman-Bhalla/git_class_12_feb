@@ -1,1 +1,4 @@
-class B{} 
+class B{
+    private int bb;
+
+} 
